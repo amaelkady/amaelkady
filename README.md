@@ -7,7 +7,7 @@
 
 ### Dr Ahmed Elkady's GitHub
 
-- 🔭 Earthquake enginnering | Steel research | Finite element modeling | Nonlinear analysis | Performance-based design
+Earthquake enginnering | Steel and compiste steel-concrete research | Finite element modeling | Nonlinear analysis | Performance-based design
 
 <p>
 <a href="https://github.com/amaelkady">
