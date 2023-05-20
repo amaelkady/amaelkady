@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p>
+<a href="https://github.com/amaelkady">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amaelkady&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaelkady&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+</a>
+</p>
+
+<br>
+
 <!--
 **amaelkady/amaelkady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
