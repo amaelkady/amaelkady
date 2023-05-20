@@ -5,7 +5,7 @@
 [![Researchgate](https://img.shields.io/badge/Researchgate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)]([https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw](https://www.researchgate.net/profile/Ahmed-Elkady-20))
 [![Outlook](https://img.shields.io/badge/Email-c14438?style=flat&logo=Email&logoColor=white)](mailto:a.elkady@soton.ac.uk)
 
- <p style="text-align: center;">### Dr Ahmed Elkady's GitHub</p>
+ <h1 style="text-align: center;">### Dr Ahmed Elkady's GitHub</h1>
 
 Earthquake enginnering | Steel and compiste steel-concrete research | Finite element modeling | Nonlinear analysis | Performance-based design
 
