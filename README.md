@@ -3,6 +3,7 @@
 [![Outlook](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.elkady@soton.ac.uk)
 [![YouTube](https://img.shields.io/badge/-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)
 [![Orcid](https://img.shields.io/badge/-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-1214-6379)
+[![Scholar](https://img.shields.io/badge/-white?style=flat&labelColor=white&logo=orcid&logoColor=green)]([https://orcid.org/0000-0002-1214-6379](https://scholar.google.ch/citations?user=f9Lb8lwAAAAJ&hl=en)
 [![Researchgate](https://img.shields.io/badge/-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)]([https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw](https://www.researchgate.net/profile/Ahmed-Elkady-20))
 
 ### Dr Ahmed Elkady's GitHub
