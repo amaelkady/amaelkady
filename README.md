@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=amaelkady&style=flat)
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elkady-00220377/)
 [![Outlook](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.elkady@soton.ac.uk)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)
 [![Orcid](https://img.shields.io/badge/-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-1214-6379)
 [![Google](https://img.shields.io/badge/-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://scholar.google.ch/citations?user=f9Lb8lwAAAAJ&hl=en)
 [![Researchgate](https://img.shields.io/badge/-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)]([https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw](https://www.researchgate.net/profile/Ahmed-Elkady-20))
