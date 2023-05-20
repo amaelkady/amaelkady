@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=amaelkady&style=flat)
-[![Linkedin](https://img.shields.io/badge/-Rob-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elkady-00220377/)
-[![Outlook](https://img.shields.io/badge/-Rob-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.elkady@soton.ac.uk)
-[![Youtube](https://img.shields.io/badge/-Rob-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)
-[![Orcid](https://img.shields.io/badge/-Rob-white?style=flat&labelColor=white&logo=orcid&logoColor=green)]([https://orcid.org/0000-0002-7682-4490](https://orcid.org/0000-0002-1214-6379)
+[![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elkady-00220377/)
+[![Outlook](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.elkady@soton.ac.uk)
+[![Youtube](https://img.shields.io/badge/-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)
+[![Orcid](https://img.shields.io/badge/-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-7682-4490](https://orcid.org/0000-0002-1214-6379)
 [![Researchgate](https://img.shields.io/badge/-Rob-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.youtube.com/channel/UCym3FzHmwqn7r88xqB43lxw)
 
 ### Dr Ahmed Elkady's GitHub
