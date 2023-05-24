@@ -8,11 +8,11 @@
  <h1 style="text-align: center;">Dr Ahmed Elkady's GitHub</h1>
 
 Earthquake engineering | Steel and compiste steel-concrete research | Finite element modeling | Nonlinear analysis | Performance-based design
-
+    
 <p style="text-align: center;>
 <a href="https://github.com/amaelkady">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amaelkady&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaelkady&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amaelkady&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amaelkady&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
 </a>
 </p>
 
