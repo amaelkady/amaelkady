@@ -7,7 +7,7 @@
 
  <h1 style="text-align: center;">Dr Ahmed Elkady's GitHub</h1>
 
-Earthquake engineering | Steel and composite steel-concrete research | Finite element modeling | Nonlinear analysis | Performance-based design
+Earthquake engineering | Steel and composite steel-concrete structures | Finite element modeling | Nonlinear analysis | Performance-based design
     
 <p style="text-align: center;>
 <a href="https://github.com/amaelkady">
