@@ -11,8 +11,8 @@ Earthquake engineering | Steel and composite steel-concrete structures | Finite 
     
 <p style="text-align: center;>
 <a href="https://github.com/amaelkady">
-  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amaelkady&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE&key=PAT_1">
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amaelkady&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amaelkady&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE&Key=PAT_1">
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amaelkady&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515&Key=PAT_1">
 
 </a>
 </p>
